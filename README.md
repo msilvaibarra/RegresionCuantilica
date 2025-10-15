@@ -7,9 +7,6 @@
 **Objetivo**
 Demostrar la aplicación de una regresión cuantílica con regulación usando Elastic Net
 
-
-**Alumno: Marcelo Silva Ibarra**
-
 <br>
 <br>
 
